@@ -1,0 +1,27 @@
+_repo: Influenza_60087
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Provincial Board of Health of Ontario
+    aliases:
+    - Ontario, Provincial Board of Health
+    - Ontario. Board of Health
+    gutenberg_agent_id: '50786'
+    url: http://www.gutenberg.org/2009/agents/50786
+    wikipedia: https://en.wikipedia.org/wiki/Ministry_of_Health_(Ontario)
+description: ''
+gutenberg_issued: '2019-08-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60087'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RC'
+- !lcsh 'Influenza'
+- !lcsh 'Influenza Epidemic, 1918-1919'
+- GITenberg
+title: Influenza
+url: http://www.gutenberg.org/ebooks/60087
